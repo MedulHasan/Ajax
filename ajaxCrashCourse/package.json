@@ -1,5 +1,5 @@
 {
-  "name": "wp-demo",
+  "name": "ajaxCrashCourse",
   "version": "1.0.0",
   "description": "webpack 4 demo",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "build": "webpack",
     "start": "webpack-dev-server"
   },
-  "author": "HM Nayem",
+  "author": "Medul Hasan",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
